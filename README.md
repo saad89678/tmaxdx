@@ -1,0 +1,2 @@
+# tmaxdx
+devlopment script fivem 
